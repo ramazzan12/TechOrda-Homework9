@@ -1,0 +1,42 @@
+.cta {
+  position: relative;
+  width: 1440px;
+  height: 374px;
+  top: 0px;
+  background: #FFFFFF;
+}
+.complex {
+  position: absolute;
+  display: flex;
+  width: 470px;
+  height: 82.19px;
+  margin: 36.72px 811px 255.09px 159px;
+}
+.complex p {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 64px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #2D2F30;
+}
+
+.complex-desc {
+  position: absolute;
+  display: flex;
+  width: 821px;
+  height: 129.39px;
+  margin: 133.76px 454px 110.85px 165px;
+}
+.complex-desc p {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.5px;
+  color: #4F4F4F;
+}

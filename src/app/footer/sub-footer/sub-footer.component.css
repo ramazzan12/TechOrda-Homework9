@@ -1,0 +1,44 @@
+.sub-footer {
+  position: absolute;
+  display: flex;
+  width: 1440px;
+  bottom: 0;
+  height: 69.37px;
+  background: #004D7B;
+}
+.rights {
+  position: absolute;
+  display: flex;
+  width: 230px;
+  height: 23.12px;
+  margin: 12px 1045px 22.16px 165px;
+}
+.rights p {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #D9DBE1;
+}
+.insta {
+  position: absolute;
+  display: flex;
+  margin: 22.69px 285px 22.69px 1131px;
+}
+.icon {
+  position: absolute;
+  display: flex;
+  margin: 22.69px 245px 22.69px 1171px;
+}
+.twitter {
+  position: absolute;
+  display: flex;
+  margin: 22.69px 205px 22.69px 1211px;
+}
+.youtube {
+  position: absolute;
+  display: flex;
+  margin: 22.69px 165px 22.69px 1251px;
+}

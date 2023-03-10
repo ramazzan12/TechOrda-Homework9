@@ -1,18 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { HeroComponent } from './hero.component';
+import { SubFooterComponent } from './sub-footer.component';
 
-describe('SecondComponent', () => {
-  let component: HeroComponent;
-  let fixture: ComponentFixture<HeroComponent>;
+describe('SubFooterComponent', () => {
+  let component: SubFooterComponent;
+  let fixture: ComponentFixture<SubFooterComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ HeroComponent ]
+      declarations: [ SubFooterComponent ]
     })
     .compileComponents();
 
-    fixture = TestBed.createComponent(HeroComponent);
+    fixture = TestBed.createComponent(SubFooterComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

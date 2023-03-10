@@ -1,3 +1,9 @@
+.whole-hero {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .second {
   position: relative;
   width: 1440px;

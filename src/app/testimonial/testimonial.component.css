@@ -1,0 +1,205 @@
+.whole-testimonials {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.testimonials {
+  width: 1440px;
+  height: 569px;
+  top: 0px;
+  position: relative;
+  background: #F2F7FF;
+}
+.section {
+  position: absolute;
+  width: 470px;
+  height: 64px;
+  margin: 61px 485px 485px 485px;
+}
+.section p {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 64px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #2D2F30;
+}
+.experience {
+  position: absolute;
+  display: flex;
+  width: 540px;
+  height: 220px;
+  margin: 176px 735px 214px 165px;
+  background: white;
+  border-radius: 10px;
+}
+.incredible-experience {
+  position: absolute;
+  width: 476px;
+  height: 28px;
+  margin: 32px 32px 160px 32px;
+}
+.incredible-experience p {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #151617;
+}
+.experience-description {
+  position: absolute;
+  width: 476px;
+  height: 120px;
+  margin: 68px 32px 32px 32px;
+}
+.experience-description p {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #4F4F4F;
+}
+
+.partner {
+  position: absolute;
+  display: flex;
+  width: 540px;
+  height: 220px;
+  margin: 176px 165px 214px 735px;
+  background: white;
+  border-radius: 10px;
+}
+.partner-header {
+  position: absolute;
+  width: 476px;
+  height: 28px;
+  margin: 32px 32px 160px 32px;
+}
+.partner-header p {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #151617;
+}
+.partner-description {
+  position: absolute;
+  width: 476px;
+  height: 120px;
+  margin: 68px 32px 56px 32px;
+}
+.partner-description p {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #4F4F4F;
+}
+.person-1 {
+  position: absolute;
+  width: 56px;
+  height: 56px;
+  margin: 440px 1059px 130px 325px;
+  display: flex;
+}
+.person-1-name {
+  position: absolute;
+  display: flex;
+  width: 137px;
+  height: 28px;
+  margin: 426px 906px 156px 397px;
+}
+.person-1-name p {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 28px;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #151617;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.person-1-desc {
+  position: absolute;
+  display: flex;
+  width: 123px;
+  height: 24px;
+  margin: 454px 920px 132px 397px;
+}
+.person-1-desc p {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #4F4F4F;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.person-2 {
+  position: absolute;
+  width: 56px;
+  height: 56px;
+  margin: 440px 489px 130px 895px;
+  display: flex;
+}
+.person-2-name {
+  position: absolute;
+  display: flex;
+  width: 137px;
+  height: 28px;
+  margin: 426px 397px 156px 967px;
+}
+.person-2-name p {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 28px;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #151617;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.person-2-desc {
+  position: absolute;
+  display: flex;
+  width: 123px;
+  height: 24px;
+  margin: 454px 275px 132px 967px;
+}
+.person-2-desc p {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #4F4F4F;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}

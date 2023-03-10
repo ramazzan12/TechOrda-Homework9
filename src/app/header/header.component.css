@@ -1,0 +1,111 @@
+.whole-header {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+header {
+  width: 1100px;
+  height: 100px;
+  margin-left: 165px;
+  top: 0;
+  display: flex;
+  background-color: white;
+  color: black;
+}
+.logo {
+  margin: 32px 0px 32px 7px;
+  display: flex;
+  align-items: center;
+}
+.logo img {
+  width: 36px;
+  height: 36px;
+}
+.lawliet {
+  display: flex;
+  width: 95px;
+  height: 20px;
+  margin: 38px 0 42px 13px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  letter-spacing: 1.5px;
+  color: #2D2F30;
+  mix-blend-mode: normal;
+  padding: 0;
+}
+nav {
+  display: flex;
+  margin-top: 0;
+  height: 100px;
+}
+nav a {
+  text-decoration: none;
+}
+
+.contact {
+  display: flex;
+  width: 67px;
+  height: 23px;
+  margin: 38px 0 39px 349px;
+}
+.contact a {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 23px;
+  letter-spacing: 1.5px;
+  color: #2D2F30;
+}
+.testimonials {
+  display: flex;
+  width: 98px;
+  height: 23px;
+  margin: 38px 0 39px 56px;
+}
+.testimonials a {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 23px;
+  letter-spacing: 1.5px;
+  color: #2D2F30;
+}
+.about {
+  display: flex;
+  width: 46px;
+  height: 23px;
+  margin: 38px 0 39px 56px;
+}
+.about a {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 23px;
+  letter-spacing: 1.5px;
+  color: #2D2F30;
+}
+.terms {
+  display: flex;
+  width: 44px;
+  height: 23px;
+  margin: 38px 0 39px 56px;
+}
+.terms a {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 23px;
+  letter-spacing: 1.5px;
+  color: #2D2F30;
+}
+.vector {
+  margin: 41px 23px 41px 146px;
+}

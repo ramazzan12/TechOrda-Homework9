@@ -1,3 +1,9 @@
+.whole-cta {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .cta {
   position: relative;
   width: 1440px;
@@ -39,4 +45,38 @@
   line-height: 36px;
   letter-spacing: 0.5px;
   color: #4F4F4F;
+}
+.complex-image {
+  position: absolute;
+  display: flex;
+  width: 350px;
+  height: 300px;
+  margin: 30px 100px 100px 1007.56px;
+}
+.complex-image img {
+  border-radius: 0px 0px 0px 40px;
+}
+.call-now {
+  position: absolute;
+  display: flex;
+  width: 219px;
+  height: 64px;
+  margin: 270px 1056px 40px 165px;
+  background: #094B72;
+  border-radius: 8px;
+}
+.call-now img {
+  position: absolute;
+  margin: 19.33px 153.33px 19.33px 40.33px;
+}
+.call-now p {
+  position: absolute;
+  margin: 14px 36px 14px 83px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 36px;
+  letter-spacing: 0.5px;
+  color: #F9F8F9;
 }
